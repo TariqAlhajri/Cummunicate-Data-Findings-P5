@@ -12,9 +12,9 @@
  - age-class: split Age into for categories:
  
  child = 0-16 years <br/>
- young-Adults= 17-30 years
- middle-aged adults = 31-45 years 
- old-aged= +45 years
+ young-Adults= 17-30 years <br/>
+ middle-aged adults = 31-45 years <br/>
+ old-aged= +45 years <br/>
 
 ## Summary of Findings
 
