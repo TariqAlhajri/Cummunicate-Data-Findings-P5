@@ -5,16 +5,16 @@
 
 ## Dataset
 
-> this dataset is about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
- it consist of 16 columns and 183411 rows.
- he main columns are: Gender, member_birth_year (age), trip duration, user-type, and stations names.
- first thing we did is inspect our dataset and did removed some unneeded columns and added two columns:-
- age-class: split Age into for categories:
- 
+> this dataset is about individual rides made in a bike-sharing system covering the greater San Francisco Bay area recorded in 2019.<br/>
+ it consist of 16 columns and 183411 rows. <br/>
+ he main columns are: Gender, member_birth_year (age), trip duration, user-type, and stations name. <br/>
+ first thing we did is inspect our dataset and did removed some unneeded columns and added two columns:-<br/>
+ age-class: split Age into for categories:<br/>
  child = 0-16 years <br/>
  young-Adults= 17-30 years <br/>
  middle-aged adults = 31-45 years <br/>
  old-aged= +45 years <br/>
+ age column: Calculate the age by subtracting member_birth_year from 2019.
 
 ## Summary of Findings
 
