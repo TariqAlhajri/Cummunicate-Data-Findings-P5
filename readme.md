@@ -9,7 +9,7 @@
  it consist of 16 columns and 183411 rows.
  he main columns are: Gender, member_birth_year (age), trip duration, user-type, and stations names.
  first thing we did is inspect our dataset and did removed some unneeded columns and added two columns:-
- - age-class: split Age into for categories:
+ age-class: split Age into for categories:
  
  child = 0-16 years <br/>
  young-Adults= 17-30 years <br/>
